@@ -12,7 +12,7 @@ The following is a full list of my cybersecurity projects. Click on the appropri
 
 > Description
 
-[Link to another page](./another-page.html).
+[View Project 1](./packet_tracer.md).
 
 ### Header 3
 
